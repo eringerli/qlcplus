@@ -1,4 +1,4 @@
-Q Light Controller Plus 4
+Q Light Controller Plus 5
 =========================
 
 ![QLC+ LOGO](resources/icons/png/qlcplus.png)
